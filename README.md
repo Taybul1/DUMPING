@@ -2,7 +2,7 @@
 
 rm -rf DUMPING
 
-git clone https://github.com/Taybul1/DUMPING/tree/main.git
+git clone https://github.com/Taybul1/DUMPING
 
 cd DUMPING
 
